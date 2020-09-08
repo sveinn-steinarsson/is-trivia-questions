@@ -2,7 +2,7 @@
 
 
 ### Uppruni spurninganna
-Spurningarnar koma frá spurningaleik á netinu sem starfrækt var í áraraðir. Ýmsir aðilar gáfu spurningar í safnið sem voru yfirfarnar og flokkaðar eftir getu á þeim tíma. Undir lokin innihélt leikurinn tæplega 12.000 spurningar. Til viðmiðunar má nefna að upprunalega *Trivial Pursuit* spilið innihélt 2.400 spurningar.
+Spurningarnar koma frá spurningaleik á netinu sem starfræktur var í áraraðir. Ýmsir aðilar gáfu spurningar í safnið sem voru yfirfarnar og flokkaðar eftir getu á þeim tíma. Undir lokin innihélt leikurinn tæplega 12.000 spurningar. Til viðmiðunar má nefna að upprunalega *Trivial Pursuit* spilið innihélt 2.400 spurningar.
 
 Ekki liggur fyrir nákvæmur uppruni allra spurninga né nöfn allra sem lagt hafa hönd á plóginn. Þó er vert að nefna þungavigtina:
 * Sveinn Steinarsson
