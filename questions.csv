@@ -31,10 +31,10 @@
 6,Tónlist,2,,"Hvaða hljómsveit gerði lagið ""Maður með mönnum""",Vinir vors og blóma
 6,Tónlist,3,,"Hvaða hljómsveit gerði lagið ""Í Reykjavíkurborg""",Þú og ég
 6,Tónlist,3,,"Hvað heitir lagið sem byrjar á ""Genginn var á Gerpisflak sprotafiskur með sporðablak""",Riggarobb
-6,Tónlist,3,2,Hver samdi textan í Gilsbakkaþulu,Kolbeinn Þorsteinsson
+6,Tónlist,3,2,Hver samdi textann í Gilsbakkaþulu,Kolbeinn Þorsteinsson
 6,Tónlist,2,,"Hvaða hljómsveit gerði lagið ""Landið fýkur burt""",Ríó Tríó
 6,Tónlist,1,3,"Hvaða Íslenska rapphljómsveit gerði lagið ""Tarfur""",Quarashi
-6,Tónlist,1,2,Hvaða hjómsveit söng um Hólmfríði Júlíusdóttir,Ný Dönsk
+6,Tónlist,1,2,Hvaða hljómsveit söng um Hólmfríði Júlíusdóttir,Ný Dönsk
 6,Tónlist,2,2,"Hvaða hljómsveit gerði lagið ""Sirkús Geira Smart""",Spilverk þjóðanna
 6,Tónlist,2,,"Hvað hljómsveit gerði lagið ""Bíllinn minn og ég""",Skriðjöklar
 6,Tónlist,1,3,"Hvaða hljómsveit gerði lagið ""Starálfur""",Sigur rós
@@ -115,7 +115,7 @@
 6,Tónlist,3,,"Hvað hét smáskífu remixið af ""Poison"" eftir Prodigy",Rat Poison
 6,Tónlist,2,,Í hvaða hljómsveit var Rob Zombie áður en hann fór út í sóló feril,White Zombie
 6,Tónlist,2,,"Hver syngur með Rob Zombie í laginu ""Iron Head""",Ozzy Osbourne
-6,Tónlist,3,,"Í hvaða lagi eftir sjáfan sig notar Snow sama text og í ""Lonely Monday Mornings""",Informer
+6,Tónlist,3,,"Í hvaða lagi eftir sjálfan sig notar Snow sama text og í ""Lonely Monday Mornings""",Informer
 6,Tónlist,2,,Hvað hét hljómborðsleikarinn í Prodigy,Liam Howlett
 6,Tónlist,3,,Hvað var eina konan í Prodigy kölluð,Sharky
 6,Tónlist,3,,"Hvaða hljómsveit flutti upprunalega lagið ""It's my life"" sem No Doubt tók",Talk Talk
@@ -204,7 +204,7 @@
 6,Tónlist,2,2,"Hver ásamt Tim Rice samdi söngleikinn ""Jesus Christ Superstar""",Andrew Lloyd Webber
 6,Tónlist,1,2,"Úr hvaða söngleik er lagið ""This Jesus must die""",Jesus Christ Superstar
 6,Tónlist,3,,"Hver samdi lag við ljóðið ""Á sprengisandi""",Sigvaldi S. Kaldalóns
-6,Tónlist,3,,"Hver samti textan í laginu ""Á sprengisandi""",Grímur Thomsen
+6,Tónlist,3,,"Hver samdi textann í laginu ""Á sprengisandi""",Grímur Thomsen
 6,Tónlist,3,,"Hver samdi lag við ljóð Halldórs Kiljan Laxness ""Maístjarnan""",Jón Ásgeirsson
 6,Tónlist,2,2,"Hverjir gáfu út diskinn ""Wish you were here""",Pink Floyd
 6,Tónlist,3,,"Á hvaða ári kom breiðskífa Pink Floyd ""Wish you were here"" fyrst út",1975
@@ -422,7 +422,7 @@
 6,Tónlist,1,3,Í hvaða hljómsveit var Bon Scott,AC/DC
 6,Tónlist,2,,"Hver var gítarleikari í hljómsveitinni ""Black Sabbath""",Tony Iommi
 6,Tónlist,2,,"Hvað heitir trommuleikarinn í ""Rolling Stones""",Charlie Watts
-6,Tónlist,3,,Í hvaða Bandarísku rokkhljómsveit eru bræðurnir Jon Foreman og Tim Foreman,Switchfoot
+6,Tónlist,3,,Í hvaða bandarísku rokkhljómsveit eru bræðurnir Jon Foreman og Tim Foreman,Switchfoot
 6,Tónlist,2,2,"Af hvaða plötu er Lagið ""Are You Gonna Be My Girl"" með Jet",Get Born
 6,Tónlist,2,,"Hvaða hljómsveit gerði lagið ""Black Hole Sun""",Soundgarden
 6,Tónlist,3,,"Hvaða lag með Franz Ferdinand byrjar á ""So if you're lonely you know I'm here waiting for you""",Take Me Out
@@ -438,17 +438,17 @@
 6,Tónlist,1,2,"Hver samdi ""Eini kleine Nachtmusik""",Mozart
 6,Tónlist,2,,"Hver samdi ""Peter and the Wolf""",Prokoviev
 6,Tónlist,2,,"Hver samdi ""Ballet Egyptian""",Luigini
-6,Tónlist,2,,"Fyrir hvaða hljómfæri er ""Memories of the Alhambra"" eftir Tarrega samið",Gítar
+6,Tónlist,2,,"Fyrir hvaða hljóðfæri er ""Memories of the Alhambra"" eftir Tarrega samið",Gítar
 6,Tónlist,2,,"Hver samdi ""Dance of the Hours""",Ponchielli
 6,Tónlist,2,,"Hver samdi ""The Barber of Seville Overture",Rossini
 6,Tónlist,3,,Hvað er fullt nafn tónskáldsins Rossini,Gioacchino Antonio Rossini
-6,Tónlist,1,,"Fyrir hvaða hljómfæri er ""Moonlight Sonata"" eftir Beethoven samið",Píanó
+6,Tónlist,1,,"Fyrir hvaða hljóðfæri er ""Moonlight Sonata"" eftir Beethoven samið",Píanó
 6,Tónlist,2,,"Hvaða tónlistarmaður gerði diskana ""Selected Ambient Works""",Aphex Twin
 6,Tónlist,2,,"Hvaða tónlistarmaður gerði diskinn ""Substrata""",Biosphere
 6,Tónlist,1,2,Frá hvaða landi er tónlistarmaðurinn Biosphere,Noregi
 6,Tónlist,2,2,"Hver flutti lagið ""Mad World"" á Donnie Darko Soundtrack",Gary Jules
 6,Tónlist,3,,"Hverjir fluttu upphaflega lagið ""Mad World""",Tears for Fears
-6,Tónlist,1,2,Hvaða hljómsveit er skamstöfuð N.I.N.,Nine Inch Nails
+6,Tónlist,1,2,Hvaða hljómsveit er skammstöfuð N.I.N.,Nine Inch Nails
 6,Tónlist,1,,"Hvaða hljómsveit kvað ""For the love you bring wont mean a thing unless you sing""",Travis
 6,Tónlist,2,,"Af hvaða plötu er lagið ""A Warm Place"" eftir Nine Inch Nails",The Downward Spiral
 6,Tónlist,1,2,"Hvaða hljómsveit kvað ""Cut my life into pieces, this is my last resort",Papa Roach
@@ -556,7 +556,7 @@
 6,Kvikmyndir og sjónvarpsefni,2,,"Hver skrifaði og leikstýrði ""Mallrats""",Kevin Smith
 6,Kvikmyndir og sjónvarpsefni,2,,"Hver leikstýrði ""Crouching Tiger, Hidden Dragon""",Ang Lee
 6,Kvikmyndir og sjónvarpsefni,3,2,Hvaða bíómynd fjallar um Bill Gates og Steve Jobs,Pirates of Silicon Valley
-6,Kvikmyndir og sjónvarpsefni,2,,Hver skapaði teiknimynda persónuna Dilbert,Scott Adams
+6,Kvikmyndir og sjónvarpsefni,2,,Hver skapaði teiknimyndapersónuna Dilbert,Scott Adams
 6,Kvikmyndir og sjónvarpsefni,1,3,Í hvernig myndum leikur Jenna Jameson,Klámmyndum
 6,Kvikmyndir og sjónvarpsefni,1,,"Yfir hvaða hraða í mílum á klukkutíma þurfti rútan í ""Speed"" að fara til þess að springa ekki",50
 6,Kvikmyndir og sjónvarpsefni,3,,"Hver skipaði Code Red í ""A Few Good Men""",Colonel Nathan P. Jessup
@@ -585,8 +585,8 @@
 6,Kvikmyndir og sjónvarpsefni,2,2,"Með hverju drepur Alice, Freddy Krueger í ""Nightmare on Elm Street 4""",Spegli
 6,Kvikmyndir og sjónvarpsefni,3,,"Hvert var númer á bíl Igoe's í ""Innerspace""",SNAPON
 6,Kvikmyndir og sjónvarpsefni,3,,"Hvað hét hljómsveit Marty's sem reynir fyrir sér á dansleiknum í ""Back To The Future""",The Pinheads
-6,Kvikmyndir og sjónvarpsefni,2,,"Hvert var nafn yngi bróðirs Lane í myndinni ""Better Off Dead""",Badger
-6,Kvikmyndir og sjónvarpsefni,3,,Hversu mörg gigavött af rafmagni þurfti Doc Brown til að koma DeLorian bílnum til framtíðarinnar,"1,21"
+6,Kvikmyndir og sjónvarpsefni,2,,"Hvert var nafn yngri bróður Lane í myndinni ""Better Off Dead""",Badger
+6,Kvikmyndir og sjónvarpsefni,3,,Hversu mörg gígavött af rafmagni þurfti Doc Brown til að koma DeLorian bílnum til framtíðarinnar,"1,21"
 6,Kvikmyndir og sjónvarpsefni,3,,"Hvað hétu ""Ghostbusters"" í samnefndri mynd í stafrófsröð","Egon Spengler, Peter Venkman, Ray Stantz og Winston Zedmore"
 6,Kvikmyndir og sjónvarpsefni,2,,"Hvert var model númer ""The Terminator"" í samnefndri mynd",T-800
 6,Kvikmyndir og sjónvarpsefni,2,,"Hver lék ""Keymaster"" í myndinni ""Ghostbusters""",Rick Moranis
@@ -608,14 +608,14 @@
 6,Kvikmyndir og sjónvarpsefni,3,,"Hver var línan sem Sarah gat aldrei munað í myndinni ""The Labrynith""",You have no power over me
 6,Kvikmyndir og sjónvarpsefni,3,2,"Hvaða flugfélagi átti aldrei að hafa brotlent í myndinni ""Rainman""",Quantas
 6,Kvikmyndir og sjónvarpsefni,3,,"Hvaða leikari úr ""Cheers"" lék í ""The Empire Strikes Back""",John Ratzenberg
-2,Stjörnufræði,2,,Hvað heitir stærsti lofsteinninn í sólkerfinu okkar,Ceres
+2,Stjörnufræði,2,,Hvað heitir stærsti loftsteinninn í sólkerfinu okkar,Ceres
 2,Stjörnufræði,2,,Hvað er yfirborð Venusar heitt í celsiusgráðum,470
-2,Stjörnufræði,2,,Hvaða reikistjarna hefur hæstan meðal yfirborðhita,Venus
-2,Stjörnufræði,2,,Hvað er bjartasta stjarna í stjörumerkinu Lyra,Vega
+2,Stjörnufræði,2,,Hvaða reikistjarna hefur hæstan meðal yfirborðshita,Venus
+2,Stjörnufræði,2,,Hvað er bjartasta stjarna í stjörnumerkinu Lyra,Vega
 2,Stjörnufræði,2,,Hver er bjartasta stjarnan í himninum,Sirius
-2,Stjörnufræði,2,,Hvað er eina plánetan í sólkerfinu okkar sem hefur minni þéttleika en vatn,Saturnus
-2,Stjörnufræði,2,,Hver er eina reikistjarnan þar sem hringir hennar sjást frá jörðu,Saturnus
-2,Stjörnufræði,1,2,Hvaða reikistjarna í sólkerfinu okkar er þyngri en allar aðrar reikistjörnur í sólkerfinu samanlagðar,Jupiter
+2,Stjörnufræði,2,,Hvað er eina plánetan í sólkerfinu okkar sem hefur minni þéttleika en vatn,Satúrnus
+2,Stjörnufræði,2,,Hver er eina reikistjarnan þar sem hringir hennar sjást frá jörðu,Satúrnus
+2,Stjörnufræði,1,2,Hvaða reikistjarna í sólkerfinu okkar er þyngri en allar aðrar reikistjörnur í sólkerfinu samanlagðar,Júpíter
 2,Stjörnufræði,3,,"Hver er bjartasta stjarnan í ""Scorpius"" merkinu",Antares
 2,Stjörnufræði,2,,Hver er bjartasti loftsteinninn séð frá jörðu,Vesta
 2,Stjörnufræði,2,,Hver er eini loftsteinninn sem er sjáanlegur með berum augum,Vesta
@@ -626,13 +626,13 @@
 2,Stjörnufræði,2,2,"Á hvaða reikistjörnu er ""Solis Lacus"" að finna",Mars
 2,Stjörnufræði,1,3,"Hvaða reikistjarna er oft kölluð ""Rauða Plánettan""",Mars
 2,Stjörnufræði,1,,Hvert átti Beagle 2 að fara,Mars
-2,Stjörnufræði,1,3,Hvaða reikistjarna í sólkerfinu okkar hefur mesta þyngdaraflið,Jupiter
+2,Stjörnufræði,1,3,Hvaða reikistjarna í sólkerfinu okkar hefur mesta þyngdaraflið,Júpíter
 2,Stjörnufræði,1,,Hvað er nálægasta spíral stjörnuþoka frá okkur,Andromedia
 2,Stjörnufræði,3,,Hver gaf Andromeda kallheitið M31,Charles Messier
 2,Stjörnufræði,3,,Hver er nálægasta stjarna frá okkur,Proxima Centauri
 2,Stjörnufræði,2,,Hvað heitir halastjarnan sem kemur alltaf aftur með 76 ára millibili,Halley's
 2,Stjörnufræði,2,,Hvaða ómannaða geimfar uppgötvaði Halley's halastjörnuna,Giotto
-2,Stjörnufræði,1,3,Hvaða reikistjarna í sólkefinu okkar í líkust jörðinni að stærð og massa,Venus
+2,Stjörnufræði,1,3,Hvaða reikistjarna í sólkerfinu okkar í líkust jörðinni að stærð og massa,Venus
 2,Stjörnufræði,2,,Hvað er stærsta tungl í sólkerfinu okkar,Ganymede
 2,Stjörnufræði,1,3,"Hvaða þjóð byrjuði að nota orðið ""Astro""",Grikkir
 2,Stjörnufræði,2,,Hvert var fyrsta nafn Hubble sem Hubble sjónaukinn varður skírður eftir,Edwin
@@ -643,7 +643,7 @@
 2,Stjörnufræði,2,2,Hvað átti Giotto ómannaða könnunarfarið að kanna,Halastjörnu
 2,Stjörnufræði,2,,Hvert af hinum fjóru stóru tuglunum sem hringsóla Júpiter er nálægast plánetunni,Io
 2,Stjörnufræði,2,2,Hversu margir dagar er einn dagur á tunglinu,27
-2,Stjörnufræði,1,2,Á milli hvaða reikistjarna í sólkerfinu okkar er flesta loftsteinana að finna,Mars og Jupiter
+2,Stjörnufræði,1,2,Á milli hvaða reikistjarna í sólkerfinu okkar er flesta loftsteinana að finna,Mars og Júpíter
 2,Stjörnufræði,3,,Hver uppgötaði Plútó árið 1930,Clyde Tombaugh
 2,Stjörnufræði,3,,Hvaða maður upphvötaði fyrstur Neptúnus,Johann Galle
 2,Stjörnufræði,3,,Hver upphvötaði fyrstur Úranus,William Herschel
@@ -653,7 +653,7 @@
 2,Stjörnufræði,2,2,Hversu margra milljarða ára gamallt er sólkerfið okkar talið vera,"4,6"
 2,Stjörnufræði,3,,Hvað heitir tungl Plútó,Charon
 2,Stjörnufræði,3,,"Þegar Plútó fer á milli Neptúnús og Sólarinnar, í hversu mörg ár varir það",20
-2,Stjörnufræði,2,,Hvaða reikistjarna í sólkerfinu snýst um sjáfa sig í andstæða átt miðað við jörðina,Venus
+2,Stjörnufræði,2,,Hvaða reikistjarna í sólkerfinu snýst um sjálfa sig í andstæða átt miðað við jörðina,Venus
 2,Stjörnufræði,1,2,Úr hvaða efni eru hringir Satúrns aðallega úr,Ís
 2,Stjörnufræði,2,,Hvert er hitastig á yfirborði Plútó í celsíusgráðum,-230
 2,Stjörnufræði,2,2,Triton er tungl hvaða reikistjörnu,Neptúnus
@@ -670,7 +670,7 @@
 2,Stjörnufræði,2,,Hvað eru tvær stjörnur kallaðar á Ensku sem snúast umhverfis hverja aðra,Binary Stars
 2,Stjörnufræði,2,2,Hvaða reikistjarna er nefnd eftir Rómverska Guði jarðræktar,Saturn
 2,Stjörnufræði,2,,Hver er faðir Saturn sem reikistjarna er líka nefnd eftir,Uranus
-2,Stjörnufræði,2,,Hver er faðir Jupiter sem reikistjarna er líka nefnd eftir,Saturn
+2,Stjörnufræði,2,,Hver er faðir Júpíter sem reikistjarna er líka nefnd eftir,Saturn
 2,Stjörnufræði,2,2,Hvað er talið að falli saman til að mynda svarthol,Stjarna
 2,Stjörnufræði,2,,Hvað er stjarna sem tímabundið verður bjartari nefnd,Nova
 2,Stjörnufræði,2,2,Hvað er stjarna sem er að fara springa kölluð,Supernova
@@ -680,7 +680,7 @@
 2,Stjörnufræði,3,,Hvaða stjarnfræðilega fyrirbæri var fyrst haldið að væri geimverur,Tifstjörnur
 2,Stjörnufræði,2,,Hvernig eru heitustu stjörnunar á litinn,Bláar
 2,Stjörnufræði,2,2,Hvernig eru köldustu stjörnurnar á litinn,Rauðar
-2,Stjörnufræði,2,,Hvaða reikistjarna hefur yfir að ráða minnsta tunglið,Jupiter
+2,Stjörnufræði,2,,Hvaða reikistjarna hefur yfir að ráða minnsta tunglið,Júpíter
 2,Stjörnufræði,2,,Hvaða ár féll eldhnöttur niður í Tungsuka dal í Siberíu,1908
 2,Stjörnufræði,3,,Hvaða málmur er oft tengdur við loftsteininn sem er talinn hafa drepið risaeðlurnar,Iridium
 2,Stjörnufræði,3,,"Hvaða stjörnufræðingur talaði oft um halastjörnur sem ""Skítuga snjóbolta""",Fred Whipple
@@ -751,7 +751,7 @@
 2,Stærðfræði,2,,Hvert er markgildi fallsins f(x)=sqrt(x) þegar x nálgast 81,9
 2,Stærðfræði,2,,Hvaða tölur að undanskildri sjálfri sér og einum ganga upp í 23,Engar
 2,Stærðfræði,2,,Hvaða tölur að undanskildri sjálfri sér og einum ganga upp í 10,2 og 5
-2,Stærðfræði,3,,Hvert er margfeldi 111 með sjáfri sér,12321
+2,Stærðfræði,3,,Hvert er margfeldi 111 með sjálfri sér,12321
 2,Stærðfræði,1,3,Hvað er 3 í öðru veldi,9
 2,Stærðfræði,2,2,Hver er kvaðratrótin af 144,12
 2,Stærðfræði,1,3,Hver er kvaðratrótin af 100,10
@@ -3654,7 +3654,7 @@
 1,,2,,Á hvernig bíl var James Dean þegar hann dó,Porsche
 1,,1,,Hvað þýðir skammstöfunin F.Í.B,Félag íslenskra bifreiðaeigenda
 1,,2,,Hvað heitir félagsheimilli Tungnamanna,Aratunga
-1,,3,,Hvað þýðir skamstöfunin SÁÁ,Samtök áhugafólks um áfengis- og vímuefnavandann
+1,,3,,Hvað þýðir skammstöfunin SÁÁ,Samtök áhugafólks um áfengis- og vímuefnavandann
 1,,2,,Hversu löng er Skeiðarárbrú (í metrum),880
 1,,3,2,Hvar er Möguleikhúsið staðsett,Hlemmi
 1,,3,,Hvar er Thorvaldsensbazar staðsettur,Austurstræti 4
@@ -4388,7 +4388,7 @@
 6,Tónlist,2,,Hverjir gáfu út plötunna Ímynd,Egó
 6,Tónlist,2,,Hvað skiptist sinfónía venjulega í marga hluta,4
 6,Tónlist,2,,Hvaða tveir söngvarar leiða saman hesta sína á plötunni Tveir,Bergþór Pálsson og Eyjólfur Kristjánsson
-6,Tónlist,2,,Á hvaða hljómfæri spilaði Sting í hljómsveitinni Police,Bassa
+6,Tónlist,2,,Á hvaða hljóðfæri spilaði Sting í hljómsveitinni Police,Bassa
 6,Tónlist,2,,Hvaða íslenska hljómsveit gaf út lagið Skandinavíu Blues,Spilverk þjóðanna
 6,Tónlist,2,,Hvað hét maður Tínu Turner,Ike
 6,Tónlist,2,,Hvaða tónlistamaður ber nú nafnið Yusuf Islam,Cat Stevens
@@ -5964,7 +5964,7 @@
 2,Stjörnufræði,1,2,Hvað er talið vera í miðju vetrarbrautarinnar,Svarthol
 2,Stjörnufræði,3,,Hversu lengi er sólkerfi okkar að fara hringinn um Vetrarbrautina,226 milljón ár
 2,Stjörnufræði,3,,Hvers konar farartæki er Cosmos 1,Sólarseglskip
-2,Stjörnufræði,3,2,Hvar er lofsteinagígurinn Yuty,Mars
+2,Stjörnufræði,3,2,Hvar er loftsteinagígurinn Yuty,Mars
 2,Jarðfræði,3,2,"Hvaða litur er sjaldgjæfastur á demöntum, fyrir utan algjörlega tæran (litlausan)",Bleikur
 2,Jarðfræði,3,2,Hvað heitir stærsta eldfjall sólkerfisins,Olympus Mons
 2,Jarðfræði,2,2,Í hvaða átt er Sahara-eyðimörkin að stækka,Suður
@@ -8158,7 +8158,7 @@
 4,,3,2,Hver var sjávarútvegsráðherra Íslands á árunum 1971-1974,Lúðvík Jósepsson
 4,,3,2,Hver tók við sem formaður Sjálfstæðisflokksins árið 1970,Jóhann Hafstein
 4,,3,,Hver tók við sem formaður Sjálfstæðisflokksins árið 1963,Bjarni Benediktsson
-4,,2,,Hver tók við sem formaður Sjáflstæðisflokksins árið 1973,Geir Hallgrímsson
+4,,2,,Hver tók við sem formaður Sjálflstæðisflokksins árið 1973,Geir Hallgrímsson
 4,,3,,"Hvaða franski konungur átti að hafa sagt ""ríkið það er ég""",Lúðvik 14
 4,,2,,Hver var konungur Frakklands í frönsku byltingunni,Lúðvík XVI
 4,,3,,Hvaða ár voru Code Napoleon sett á í Frakkalandi,1804
@@ -8263,7 +8263,7 @@
 6,Tónlist,2,,Hver samdi óperu upp úr leikritinu Macbeth árið 1847,Verdi
 6,Tónlist,2,2,Um hvaða rússneska dulspeking sömdu Boney M frægt lag,Raspútín
 6,Tónlist,3,,Í hvaða landi var bandið Milli Vanilli stofnað,Þýskalandi
-6,Tónlist,2,2,Á hvaða hljómfæri spilaði S. Björn Blöndal í hljómsveitinni Ham,Bassa
+6,Tónlist,2,2,Á hvaða hljóðfæri spilaði S. Björn Blöndal í hljómsveitinni Ham,Bassa
 6,Tónlist,3,,Hvaða tónlistarmaður var forsprakki hljómsveitarinnar Funkstrasse,Óttar Proppé
 6,Kvikmyndir og sjónvarpsefni,2,,"""Always look on the bright side of life"" er setning úr hvaða kvikmynd",Life of Brian
 6,Kvikmyndir og sjónvarpsefni,3,2,"""Is that crazy enough for ya'? Want me to take a shit on the floor?"" er setning úr hvaða kvikmynd",One Flew Over the Cuckoo's Nest
@@ -8826,8 +8826,8 @@
 4,,3,2,Hvaða ár var IBM stofnað,1911
 1,Tungumál,2,,Hvaða tungumál er talað í Perú,Spænska
 2,Tölvur og tækni,1,3,"Hvaða stafur er vinstra megin við ""Y"" á lyklaborði",T
-2,Tölvur og tækni,3,,Fyrir hvað stendur skamstöfunin CPU,Central Processing Unit
-2,Tölvur og tækni,3,,Hvað stendur AMD skamstöfuninn fyrir,Advanced Micro Devices
+2,Tölvur og tækni,3,,Fyrir hvað stendur skammstöfunin CPU,Central Processing Unit
+2,Tölvur og tækni,3,,Hvað stendur AMD skammstöfuninn fyrir,Advanced Micro Devices
 6,Tónlist,2,2,"Hvaða söngvari fékk þann vafasama heiður að vera fyrstur allra söngvara, til að vera handtekinn á sviði",Jim Morrison
 6,Tónlist,1,3,"Hvaða hljómsveit gerði lagið ""Save a Prayer"" vinsælt",Duran Duran
 6,Tónlist,1,2,Hvað heitir söngvari Guns'n'Roses,Axl Rose
@@ -8853,7 +8853,7 @@
 6,Tónlist,2,,Hvaða ár kom Ísbjarnarblús Bubba út,1980
 6,Tónlist,3,,"Á hvaða plötu Green Day er lagið ""Jesus of Suburbia""",American Idiot
 6,Tónlist,3,,Hvaða fyrrum meðlimur REM hætti með bandinu,Bill Berry
-6,Tónlist,3,2,Hver samdi textan við Gígjuna,Benedikt S. Gröndal
+6,Tónlist,3,2,Hver samdi textann við Gígjuna,Benedikt S. Gröndal
 6,Tónlist,3,,Hvaða land vann í Eurovison árið 1956,Sviss
 6,Tónlist,3,,Hvaða land vann í Eurovison árið 1957,Holland
 6,Tónlist,3,,Hvaða land vann í Eurovison árið 1958,Frakkland
@@ -10486,7 +10486,7 @@
 6,Tónlist,1,3,Hverjir sendu frá sér plötuna Ummagumma árið 1969,Pink Floyd
 6,Tónlist,2,,"Hvaða lag hefst svona ""One pill makes you larger""",White Rabbit
 6,Tónlist,2,,Hvað heitir elsti sonur Johns Lennon,Julian Lennon
-6,Tónlist,1,2,Hvað hét söngvarinn úr frægu hjómsveitini The Doors,Jim Morrison
+6,Tónlist,1,2,Hvað hét söngvarinn úr frægu hljómsveitinni The Doors,Jim Morrison
 6,Tónlist,1,2,Hvað hét frægasti söngvari hljómsveitarinnar Black Sabbath,Ozzy Osbourne
 6,Tónlist,3,,Hvað kallaði Jim Morrison sig stundum,Mr. Mojo Rising
 6,Tónlist,3,,Hvað hét kærasta/eiginkona Jim Morrison,Patricia Kennealy
